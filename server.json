@@ -1,0 +1,11 @@
+{
+  "tasks": [
+    {
+      "id": "2",
+      "checked": true,
+      "name": "Varrer o quintal",
+      "description": "Varrer o quintal da frente",
+      "date": "21/04/2023"
+    }
+  ]
+}
